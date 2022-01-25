@@ -3,7 +3,7 @@
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/Music14ayush/VCsMusicBot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -54,7 +54,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 ### Deploy to VPS 🏃
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/LushaiMusic/VCsMusicBot
+$ git clone https://github.com/Music14ayush/VCsMusicBot
 $ cd VCsMusicBot
 # Upgrade sources
 # Install All Requirements 
